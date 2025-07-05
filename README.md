@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dibyajyoti Biswas</h1>
-<h3 align="center">A passionate frontend developer from India who is currently an Intermediate</h3>
+<h3 align="center">A passionate Developer from India who is currently an Intermediate in everything</h3>
+<h3 align="center">Jack of all trades master of none</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisdibyajyoti&label=Profile%20views&color=0e75b6&style=flat" alt="thisisdibyajyoti" /> </p>
 
@@ -16,6 +17,12 @@
 - 📫 How to reach me **dibyajyotibiawas100@gmail.com**
 
 - ⚡ Fun fact **I always workout by going to gym and play football and am a passionate singer and gamer**
+
+- **Im also currently learning AIML from a btech college**
+
+<h3 align="center"> though oftentimes better than master of one</h3>
+
+<p align="center"><img src="https://media.tenor.com/GnfnLmJlKucAAAAM/smile-laughing.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 220px; height: 157px; margin: 0px; width: 283px;" alt="Luffy Smile GIFs | Tenor" jsname="kn3ccd">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
