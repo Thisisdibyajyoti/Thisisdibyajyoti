@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mini.dibzz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mini.dibzz_" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/dibyajyoti-biswas-3a0910303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyajyoti biswas" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dibyajyoti-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibyajyoti biswas" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/swjoker10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swjoker10" height="30" width="40" /></a>
 <a href="https://discord.gg/mini_jozzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mini_jozzu" height="30" width="40" /></a>
 </p>
